@@ -1,0 +1,14 @@
+{
+  "name": "lttoolbox-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-cli": "^16.4.2"
+  }
+}
